@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.VakkoConcierge" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">#111111</item>
+        <item name="android:navigationBarColor">#F5F2EC</item>
+    </style>
+</resources>
